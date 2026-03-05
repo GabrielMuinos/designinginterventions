@@ -1,0 +1,6 @@
+title: My Book
+author: Your Name
+logo: logo.png
+
+execute:
+  execute_notebooks: "off"
